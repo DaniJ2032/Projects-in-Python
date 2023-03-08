@@ -1,0 +1,4 @@
+https://numpy.org/doc/stable/reference/generated/numpy.fromstring.html
+https://numpy.org/devdocs/reference/generated/numpy.matrix.html
+https://www.analyticslane.com/2021/01/11/numpy-crear-matrices-vacias-en-numpy-y-adjuntar-filas-o-columnas/#:~:text=El%20m%C3%A9todo%20empty()%20permite,sin%20elementos%20en%20una%20dimensi%C3%B3n.
+https://pythondiario.com/2019/01/matrices-en-python-y-numpy.html
